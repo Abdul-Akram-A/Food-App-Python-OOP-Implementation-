@@ -26,9 +26,3 @@ This project is an object-oriented implementation of a food app developed entire
 
 ## Contributing
 Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under the [INSERT LICENSE TYPE] License.
-
-## Acknowledgements
-Special thanks to all contributors and open-source projects that have inspired and supported this endeavor.
